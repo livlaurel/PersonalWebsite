@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/www.olaurel.dev/static/css/main.2784f799.css",
-    "main.js": "/www.olaurel.dev/static/js/main.ab1ebfeb.js",
+    "main.css": "/www.olaurel.dev/static/css/main.7bcb5a3c.css",
+    "main.js": "/www.olaurel.dev/static/js/main.37ee0fd8.js",
     "index.html": "/www.olaurel.dev/index.html",
-    "main.2784f799.css.map": "/www.olaurel.dev/static/css/main.2784f799.css.map",
-    "main.ab1ebfeb.js.map": "/www.olaurel.dev/static/js/main.ab1ebfeb.js.map"
+    "main.7bcb5a3c.css.map": "/www.olaurel.dev/static/css/main.7bcb5a3c.css.map",
+    "main.37ee0fd8.js.map": "/www.olaurel.dev/static/js/main.37ee0fd8.js.map"
   },
   "entrypoints": [
-    "static/css/main.2784f799.css",
-    "static/js/main.ab1ebfeb.js"
+    "static/css/main.7bcb5a3c.css",
+    "static/js/main.37ee0fd8.js"
   ]
 }
