@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/personalwebsite/static/css/main.2784f799.css",
-    "main.js": "/personalwebsite/static/js/main.ab1ebfeb.js",
-    "index.html": "/personalwebsite/index.html",
-    "main.2784f799.css.map": "/personalwebsite/static/css/main.2784f799.css.map",
-    "main.ab1ebfeb.js.map": "/personalwebsite/static/js/main.ab1ebfeb.js.map"
+    "main.css": "/www.olaurel.dev/static/css/main.2784f799.css",
+    "main.js": "/www.olaurel.dev/static/js/main.ab1ebfeb.js",
+    "index.html": "/www.olaurel.dev/index.html",
+    "main.2784f799.css.map": "/www.olaurel.dev/static/css/main.2784f799.css.map",
+    "main.ab1ebfeb.js.map": "/www.olaurel.dev/static/js/main.ab1ebfeb.js.map"
   },
   "entrypoints": [
     "static/css/main.2784f799.css",
