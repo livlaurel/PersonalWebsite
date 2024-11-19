@@ -1,13 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.7bcb5a3c.css",
-    "main.js": "/static/js/main.69f14cef.js",
+    "main.css": "/static/css/main.9a73729d.css",
+    "main.js": "/static/js/main.9007a532.js",
+    "static/media/apt.jpeg": "/static/media/apt.6cb8bfe4131461c42ae2.jpeg",
+    "static/media/fis.jpeg": "/static/media/fis.cdf412eb0953ecd340f6.jpeg",
+    "static/media/woman.jpeg": "/static/media/woman.d400977a5e2a32d7fe41.jpeg",
+    "static/media/bea.jpeg": "/static/media/bea.baf22a7cb99c06833e4b.jpeg",
     "index.html": "/index.html",
-    "main.7bcb5a3c.css.map": "/static/css/main.7bcb5a3c.css.map",
-    "main.69f14cef.js.map": "/static/js/main.69f14cef.js.map"
+    "main.9a73729d.css.map": "/static/css/main.9a73729d.css.map",
+    "main.9007a532.js.map": "/static/js/main.9007a532.js.map"
   },
   "entrypoints": [
-    "static/css/main.7bcb5a3c.css",
-    "static/js/main.69f14cef.js"
+    "static/css/main.9a73729d.css",
+    "static/js/main.9007a532.js"
   ]
 }
