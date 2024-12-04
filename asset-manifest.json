@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.088183ac.css",
-    "main.js": "/static/js/main.fad0464f.js",
+    "main.js": "/static/js/main.c3b4d154.js",
     "static/media/train.gif": "/static/media/train.3af9ee4372a128a73227.gif",
     "static/media/wonder.jpg": "/static/media/wonder.b59a593b695d15e9fd55.jpg",
     "static/media/space.jpg": "/static/media/space.1100ef574892df936fbb.jpg",
@@ -11,19 +11,21 @@
     "static/media/macbook.jpg": "/static/media/macbook.1303bed856e72611a69d.jpg",
     "static/media/laptop.jpg": "/static/media/laptop.8604f9bc4d06f38170ee.jpg",
     "static/media/apt.jpeg": "/static/media/apt.6cb8bfe4131461c42ae2.jpeg",
+    "static/media/plan.png": "/static/media/plan.2552e7bf53450d91cc78.png",
     "static/media/fis.jpeg": "/static/media/fis.cdf412eb0953ecd340f6.jpeg",
     "static/media/designpage.jpg": "/static/media/designpage.a5126e70c1f85c0768f4.jpg",
     "static/media/ab.mp4": "/static/media/ab.f8e56040d65c24e903f1.mp4",
     "static/media/woman.jpeg": "/static/media/woman.d400977a5e2a32d7fe41.jpeg",
+    "static/media/catdesigns.png": "/static/media/catdesigns.8205bd722fa45074f46c.png",
     "static/media/pfp.png": "/static/media/pfp.428396875eaf6d71a1da.png",
     "static/media/bea.jpeg": "/static/media/bea.baf22a7cb99c06833e4b.jpeg",
     "static/media/window.jpeg": "/static/media/window.1c4aa614e75dc3bb3117.jpeg",
     "index.html": "/index.html",
     "main.088183ac.css.map": "/static/css/main.088183ac.css.map",
-    "main.fad0464f.js.map": "/static/js/main.fad0464f.js.map"
+    "main.c3b4d154.js.map": "/static/js/main.c3b4d154.js.map"
   },
   "entrypoints": [
     "static/css/main.088183ac.css",
-    "static/js/main.fad0464f.js"
+    "static/js/main.c3b4d154.js"
   ]
 }
