@@ -1,13 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.15785724.css",
-    "main.js": "/static/js/main.11d6bf9e.js",
+    "main.css": "/static/css/main.088183ac.css",
+    "main.js": "/static/js/main.f2c0d560.js",
     "static/media/train.gif": "/static/media/train.3af9ee4372a128a73227.gif",
     "static/media/wonder.jpg": "/static/media/wonder.b59a593b695d15e9fd55.jpg",
     "static/media/space.jpg": "/static/media/space.1100ef574892df936fbb.jpg",
     "static/media/apple.jpg": "/static/media/apple.0a47e6566aec5771c50d.jpg",
     "static/media/mock.jpeg": "/static/media/mock.3e676acf5879df65bf2c.jpeg",
+    "static/media/figplan.jpeg": "/static/media/figplan.95c8dc6077c0ad608872.jpeg",
     "static/media/macbook.jpg": "/static/media/macbook.1303bed856e72611a69d.jpg",
+    "static/media/laptop.jpg": "/static/media/laptop.8604f9bc4d06f38170ee.jpg",
     "static/media/apt.jpeg": "/static/media/apt.6cb8bfe4131461c42ae2.jpeg",
     "static/media/fis.jpeg": "/static/media/fis.cdf412eb0953ecd340f6.jpeg",
     "static/media/designpage.jpg": "/static/media/designpage.a5126e70c1f85c0768f4.jpg",
@@ -17,11 +19,11 @@
     "static/media/bea.jpeg": "/static/media/bea.baf22a7cb99c06833e4b.jpeg",
     "static/media/window.jpeg": "/static/media/window.1c4aa614e75dc3bb3117.jpeg",
     "index.html": "/index.html",
-    "main.15785724.css.map": "/static/css/main.15785724.css.map",
-    "main.11d6bf9e.js.map": "/static/js/main.11d6bf9e.js.map"
+    "main.088183ac.css.map": "/static/css/main.088183ac.css.map",
+    "main.f2c0d560.js.map": "/static/js/main.f2c0d560.js.map"
   },
   "entrypoints": [
-    "static/css/main.15785724.css",
-    "static/js/main.11d6bf9e.js"
+    "static/css/main.088183ac.css",
+    "static/js/main.f2c0d560.js"
   ]
 }
