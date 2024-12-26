@@ -1,12 +1,9 @@
 {
   "files": {
     "main.css": "/static/css/main.4aa10ca6.css",
-    "main.js": "/static/js/main.af49bd08.js",
+    "main.js": "/static/js/main.6f2c466b.js",
     "static/media/train.gif": "/static/media/train.3af9ee4372a128a73227.gif",
     "static/media/meal.jpeg": "/static/media/meal.016e30f024dff1917772.jpeg",
-    "static/media/wonder.jpg": "/static/media/wonder.b59a593b695d15e9fd55.jpg",
-    "static/media/space.jpg": "/static/media/space.1100ef574892df936fbb.jpg",
-    "static/media/apple.jpg": "/static/media/apple.0a47e6566aec5771c50d.jpg",
     "static/media/mock.jpeg": "/static/media/mock.3e676acf5879df65bf2c.jpeg",
     "static/media/gril.jpeg": "/static/media/gril.bcb94c0a7d2a465d0337.jpeg",
     "static/media/fruity.jpeg": "/static/media/fruity.55d9ebc76c0025364408.jpeg",
@@ -14,6 +11,9 @@
     "static/media/macbook.jpg": "/static/media/macbook.1303bed856e72611a69d.jpg",
     "static/media/hands.jpeg": "/static/media/hands.0f42b1ad24e12a98fade.jpeg",
     "static/media/piano.jpeg": "/static/media/piano.aa54a75d81c9f82f046d.jpeg",
+    "static/media/turbo.jpeg": "/static/media/turbo.da6c61bd34c120a86e0e.jpeg",
+    "static/media/toast.jpeg": "/static/media/toast.25291b94c964aca31430.jpeg",
+    "static/media/ramen.jpeg": "/static/media/ramen.0a39bb3081035a1ed73e.jpeg",
     "static/media/laptop.jpg": "/static/media/laptop.8604f9bc4d06f38170ee.jpg",
     "static/media/apt.jpeg": "/static/media/apt.6cb8bfe4131461c42ae2.jpeg",
     "static/media/hey.jpeg": "/static/media/hey.c780b97440b1875a00a9.jpeg",
@@ -22,19 +22,23 @@
     "static/media/fis.jpeg": "/static/media/fis.cdf412eb0953ecd340f6.jpeg",
     "static/media/sleepy.jpeg": "/static/media/sleepy.19ac96ddd2c8628944be.jpeg",
     "static/media/designpage.jpg": "/static/media/designpage.a5126e70c1f85c0768f4.jpg",
+    "static/media/sleep.jpeg": "/static/media/sleep.0b57eaea4e17b52a3094.jpeg",
+    "static/media/smiski.jpeg": "/static/media/smiski.7e51f1b543acd2c4a06f.jpeg",
     "static/media/ab.mp4": "/static/media/ab.f8e56040d65c24e903f1.mp4",
     "static/media/study.jpeg": "/static/media/study.e9585ed7e876d8b3c0c1.jpeg",
+    "static/media/hand.jpeg": "/static/media/hand.aa3491c8923390dbb147.jpeg",
     "static/media/woman.jpeg": "/static/media/woman.d400977a5e2a32d7fe41.jpeg",
     "static/media/catdesigns.png": "/static/media/catdesigns.8205bd722fa45074f46c.png",
+    "static/media/collage.jpeg": "/static/media/collage.f6f9500f62dbf9c7db1c.jpeg",
     "static/media/pfp.png": "/static/media/pfp.428396875eaf6d71a1da.png",
     "static/media/bea.jpeg": "/static/media/bea.baf22a7cb99c06833e4b.jpeg",
     "static/media/window.jpeg": "/static/media/window.1c4aa614e75dc3bb3117.jpeg",
     "index.html": "/index.html",
     "main.4aa10ca6.css.map": "/static/css/main.4aa10ca6.css.map",
-    "main.af49bd08.js.map": "/static/js/main.af49bd08.js.map"
+    "main.6f2c466b.js.map": "/static/js/main.6f2c466b.js.map"
   },
   "entrypoints": [
     "static/css/main.4aa10ca6.css",
-    "static/js/main.af49bd08.js"
+    "static/js/main.6f2c466b.js"
   ]
 }
