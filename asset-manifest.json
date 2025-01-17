@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.35010f1d.css",
-    "main.js": "/static/js/main.38cfc43d.js",
+    "main.css": "/static/css/main.4aa10ca6.css",
+    "main.js": "/static/js/main.0521d3ec.js",
     "static/media/train.gif": "/static/media/train.3af9ee4372a128a73227.gif",
     "static/media/meal.jpeg": "/static/media/meal.016e30f024dff1917772.jpeg",
     "static/media/mock.jpeg": "/static/media/mock.3e676acf5879df65bf2c.jpeg",
@@ -12,6 +12,7 @@
     "static/media/hands.jpeg": "/static/media/hands.0f42b1ad24e12a98fade.jpeg",
     "static/media/piano.jpeg": "/static/media/piano.aa54a75d81c9f82f046d.jpeg",
     "static/media/turbo.jpeg": "/static/media/turbo.da6c61bd34c120a86e0e.jpeg",
+    "static/media/heels.jpeg": "/static/media/heels.ab9c21465dcc3bdd8ea1.jpeg",
     "static/media/toast.jpeg": "/static/media/toast.25291b94c964aca31430.jpeg",
     "static/media/ramen.jpeg": "/static/media/ramen.0a39bb3081035a1ed73e.jpeg",
     "static/media/laptop.jpg": "/static/media/laptop.8604f9bc4d06f38170ee.jpg",
@@ -21,6 +22,7 @@
     "static/media/stargazing.jpeg": "/static/media/stargazing.a4b60eca119a4a287fa2.jpeg",
     "static/media/fis.jpeg": "/static/media/fis.cdf412eb0953ecd340f6.jpeg",
     "static/media/sleepy.jpeg": "/static/media/sleepy.19ac96ddd2c8628944be.jpeg",
+    "static/media/matcha.jpeg": "/static/media/matcha.e3f03931b4df63b76d26.jpeg",
     "static/media/designpage.jpg": "/static/media/designpage.a5126e70c1f85c0768f4.jpg",
     "static/media/sleep.jpeg": "/static/media/sleep.0b57eaea4e17b52a3094.jpeg",
     "static/media/smiski.jpeg": "/static/media/smiski.7e51f1b543acd2c4a06f.jpeg",
@@ -31,14 +33,16 @@
     "static/media/catdesigns.png": "/static/media/catdesigns.8205bd722fa45074f46c.png",
     "static/media/collage.jpeg": "/static/media/collage.f6f9500f62dbf9c7db1c.jpeg",
     "static/media/pfp.png": "/static/media/pfp.428396875eaf6d71a1da.png",
+    "static/media/bento.jpeg": "/static/media/bento.19707502cf161af5db07.jpeg",
+    "static/media/orange.jpeg": "/static/media/orange.2a3f3662ca2b401946c9.jpeg",
     "static/media/bea.jpeg": "/static/media/bea.baf22a7cb99c06833e4b.jpeg",
     "static/media/window.jpeg": "/static/media/window.1c4aa614e75dc3bb3117.jpeg",
     "index.html": "/index.html",
-    "main.35010f1d.css.map": "/static/css/main.35010f1d.css.map",
-    "main.38cfc43d.js.map": "/static/js/main.38cfc43d.js.map"
+    "main.4aa10ca6.css.map": "/static/css/main.4aa10ca6.css.map",
+    "main.0521d3ec.js.map": "/static/js/main.0521d3ec.js.map"
   },
   "entrypoints": [
-    "static/css/main.35010f1d.css",
-    "static/js/main.38cfc43d.js"
+    "static/css/main.4aa10ca6.css",
+    "static/js/main.0521d3ec.js"
   ]
 }
